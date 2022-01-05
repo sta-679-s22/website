@@ -237,14 +237,6 @@
       "Hash": "e75525c55c70e5f4f78c9960a4b402e9",
       "Requirements": []
     },
-    "curl": {
-      "Package": "curl",
-      "Version": "4.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "2b7d10581cc730804e9ed178c8374bd6",
-      "Requirements": []
-    },
     "data.table": {
       "Package": "data.table",
       "Version": "1.13.2",
