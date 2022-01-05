@@ -1,0 +1,45 @@
+---
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+title: "STA 379/679"
+author: "Lucy D'Agostino McGowan"
+description: "From Correlation to Causation. The goal of this course is to give students the skills needed to conduct analyses and communicate results when causality is the goal. Students will learn how to implement causal inference techniques including matching and weighting, evaluate assumptions, and conduct sensitivity analyses."
+date: "`r Sys.Date()`"
+github-repo: sta-679-s22/website
+twitter-handle: LucyStats
+cover-image: icon.png
+url: 'https\://www.r-causal.org/'
+documentclass: book
+link-citations: yes
+---
+
+# Causal Inference {.unnumbered}
+
+<img src="images/icon.png" class="cover" width="240"/>This is the homepage for STA 379/679 - Causal Inference taught by [Dr. Lucy D'Agostino McGowan](http://lucymcgowan.com/) in Spring 2022 at Wake Forest University.
+All course materials will be posted on this site.
+
+`r fontawesome::fa("clock")` Class meets on Mondays and Wednesdays, 11:00 - 12:15.
+
+`r fontawesome::fa("list")` [Course syllabus](https://www.vizdata.org/syllabus.html) 
+
+`r fontawesome::fa("calendar")` [Course schedule](https://www.vizdata.org/schedule.html).
+
+<br>
+
+## Contact information {.unnumbered}
+
+<span></span>     | <span></span>     | <span></span>    | <span></span>    
+------------------|-------------------|------------------|------------------
+Instructor        | [Lucy D'Agostino McGowan](http://lucymcgowan.com) | <a href="mailto:mcgowald@wfu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/LucyMcGowan" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/LucyStats" title="Twitter"><i class="fa fa-twitter"></i></a> 
+ Outside help                 | [Math & Stats Center](https://mathandstatscenter.wfu.edu/) | <a href="mailto:mathandstatscenter@wfu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; | 
+                  
+<br>
+
+## License {.unnumbered}
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
+
+
+## About this website {.unnumbered}
+
+This website is built with the [bookdown](https://bookdown.org/yihui/bookdown/) R package. It was adapted based on www.vizdata.org by [Mine Çetinkaya-Rundel](https://mine-cr.com).
