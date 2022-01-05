@@ -1,0 +1,15 @@
+book_filename: "sta-679"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+
+rmd_files: [
+  "index.Rmd",
+  
+  "syllabus.Rmd",
+  "schedule.Rmd",
+  "links.Rmd"
+  ]
+
+new_session: yes
