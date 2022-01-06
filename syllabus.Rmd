@@ -32,7 +32,7 @@ Students with disabilities who believe that they may need accommodations in the 
 
 #### Discussion:
 
-All course discussion will be via Github Discussions.
+All course discussion will be via [Github Discussions](https://github.com/sta-679-s22/discussion/discussions/).
 
 Guidelines for posting questions:
 
