@@ -18,11 +18,12 @@ link-citations: yes
 <img src="images/icon.png" class="cover" width="240"/>This is the homepage for STA 379/679 - Causal Inference taught by [Dr. Lucy D'Agostino McGowan](http://lucymcgowan.com/) in Spring 2022 at Wake Forest University.
 All course materials will be posted on this site.
 
-`r fontawesome::fa("clock")` Class meets on Mondays and Wednesdays, 11:00 - 12:15.
+`r fontawesome::fa("clock")`  Class meets on Mondays and Wednesdays, 11:00 - 12:15.
+`r fontawesome::fa("clock")`  Office hours: Tuesday 10a-11a, 1p-2p
 
-`r fontawesome::fa("list")` [Course syllabus](https://www.vizdata.org/syllabus.html) 
+`r fontawesome::fa("list")`  [Course syllabus](https://www.vizdata.org/syllabus.html) 
 
-`r fontawesome::fa("calendar")` [Course schedule](https://www.vizdata.org/schedule.html).
+`r fontawesome::fa("calendar")`  [Course schedule](https://www.vizdata.org/schedule.html).
 
 <br>
 
