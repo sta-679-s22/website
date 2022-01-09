@@ -33,7 +33,14 @@ jobs:
         run: |
           R -e 'install.packages("renv")'
           R -e 'renv::restore()'
-
+          
+      - name: Setup dependencies
+        uses: r-lib/actions/setup-r-dependencies@master
+        with:
+          cache-version: 1
+          extra-packages: |
+            curl
+            
       - name: Build site
         run: |
           install.packages("bslib")
