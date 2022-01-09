@@ -25,7 +25,7 @@ jobs:
         with:
           cache-version: 2
           extra-packages: |
-            any::curl
+            curl
             
       - uses: r-lib/actions/setup-renv@v2
 
