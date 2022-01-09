@@ -82,8 +82,6 @@ Failure to acknowledge collaborators will result in a grade of 0.
 You **may not** copy answers directly from another student.
 If you copy someone else's work, both parties will receive a grade of 0.
 
-The lab with the lowest score for each student will be dropped.
-
 ### Assessments
 
 We will periodically have assessments to check in with our learning goals.
