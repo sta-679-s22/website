@@ -20,8 +20,7 @@ jobs:
         with:
           use-public-rspm: true
           
-      - name: Setup dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
+      - uses: r-lib/actions/setup-r-dependencies@v2
             
       - uses: r-lib/actions/setup-renv@v2
 
