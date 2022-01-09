@@ -30,11 +30,10 @@ jobs:
           restore-keys: bookdown-
           
       - name: Setup dependencies
-        uses: r-lib/actions/setup-r-dependencies@master
+        uses: r-lib/actions/setup-r-dependencies@v1
         with:
-          cache-version: 2
           extra-packages: |
-            curl
+            any::curl
       - name: Install packages
         run: |
           R -e 'install.packages("renv")'
