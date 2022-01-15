@@ -21,9 +21,9 @@ All course materials will be posted on this site.
 `r fontawesome::fa("clock")`  Class meets on Mondays and Wednesdays, 11:00 - 12:15.
 `r fontawesome::fa("clock")`  Office hours: Tuesday 10a-11a, 1p-2p
 
-`r fontawesome::fa("list")`  [Course syllabus](https://www.vizdata.org/syllabus.html) 
+`r fontawesome::fa("list")`  [Course syllabus](https://sta-679-s22.netlify.app/syllabus.html) 
 
-`r fontawesome::fa("calendar")`  [Course schedule](https://www.vizdata.org/schedule.html).
+`r fontawesome::fa("calendar")`  [Course schedule](https://sta-679-s22.netlify.app/schedule.html).
 
 <br>
 
