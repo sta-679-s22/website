@@ -6,7 +6,7 @@
 library(googlesheets4)
 library(gt)
 library(tidyverse)
-gs4_auth(email = "mcgowald@wfu.edu")
+gs4_deauth()
 d <- read_sheet("https://docs.google.com/spreadsheets/d/1S_idcDwVn-egL5pjF4oU58eFAPZWXp1sWJxRLp2_t_I/edit?usp=sharing")
 ```
 
