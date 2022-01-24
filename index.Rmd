@@ -18,12 +18,12 @@ link-citations: yes
 <img src="images/icon.png" class="cover" width="240"/>This is the homepage for STA 379/679 - Causal Inference taught by [Dr. Lucy D'Agostino McGowan](http://lucymcgowan.com/) in Spring 2022 at Wake Forest University.
 All course materials will be posted on this site.
 
-`r fontawesome::fa("clock")`  Class meets on Mondays and Wednesdays, 11:00 - 12:15.
-`r fontawesome::fa("clock")`  Office hours: Tuesday 10a-11a, 1p-2p
+`r fontawesome::fa("clock")` &nbsp;&nbsp; Class meets on Mondays and Wednesdays, 11:00 - 12:15.
+`r fontawesome::fa("clock")` &nbsp;&nbsp; Office hours: Tuesday 10a-11a, 1p-2p
 
-`r fontawesome::fa("list")`  [Course syllabus](https://sta-679-s22.netlify.app/syllabus.html) 
+`r fontawesome::fa("list")` &nbsp;&nbsp; [Course syllabus](https://sta-679-s22.netlify.app/syllabus.html) 
 
-`r fontawesome::fa("calendar")`  [Course schedule](https://sta-679-s22.netlify.app/schedule.html).
+`r fontawesome::fa("calendar")` &nbsp;&nbsp; [Course schedule](https://sta-679-s22.netlify.app/schedule.html).
 
 <br>
 
@@ -43,4 +43,4 @@ Instructor        | [Lucy D'Agostino McGowan](http://lucymcgowan.com) | <a href=
 
 ## About this website {.unnumbered}
 
-This website is built with the [bookdown](https://bookdown.org/yihui/bookdown/) R package. It was adapted based on www.vizdata.org by [Mine Çetinkaya-Rundel](https://mine-cr.com).
+This website is built with the [bookdown](https://bookdown.org/yihui/bookdown/) R package. It was adapted based on www.vizdata.org by [Mine Çetinkaya-Rundel](https://mine-cr.com). The slide style was adapted from [Andrew Heiss's](https://www.andrewheiss.com) [beautiful style](https://github.com/andrewheiss/evalsp22.classes.andrewheiss.com/tree/main/static/slides/css). 
