@@ -45,3 +45,4 @@ Instructor        | [Lucy D'Agostino McGowan](http://lucymcgowan.com) | <a href=
 ## About this website {.unnumbered}
 
 This website is built with the [bookdown](https://bookdown.org/yihui/bookdown/) R package. It was adapted based on www.vizdata.org by [Mine Çetinkaya-Rundel](https://mine-cr.com). The slide style was adapted from [Andrew Heiss's](https://www.andrewheiss.com) [beautiful style](https://github.com/andrewheiss/evalsp22.classes.andrewheiss.com/tree/main/static/slides/css). 
+
