@@ -35,6 +35,7 @@ p <- ggplot() +
         axis.text = element_blank(),
         panel.grid = element_blank())
 
+
 sticker(p,
         package = "STA 679", 
         p_size = 15,
